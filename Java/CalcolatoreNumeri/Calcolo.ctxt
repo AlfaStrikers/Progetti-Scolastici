@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Calcolo
+comment1.params=
+comment1.target=int\ getPrimoNumero()
+comment2.params=primoNumero
+comment2.target=void\ setPrimoNumero(int)
+comment3.params=
+comment3.target=int\ getSecondoNumero()
+comment4.params=secondoNumero
+comment4.target=void\ setSecondoNumero(int)
+comment5.params=
+comment5.target=int\ sommaNumeri()
+numComments=6
