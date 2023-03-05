@@ -1,2 +1,2 @@
-# Progetti-Scolastici
-Una piccola repository contenente i miei progetti scolastici
+# School-Projects
+🎒 A little repository of my School Projects
